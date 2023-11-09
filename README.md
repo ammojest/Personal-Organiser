@@ -16,6 +16,12 @@ This app should allow me to add items that I want to learn/watch/play with the f
 - date of release (if app)
 - completion percentage
 
+## Tech specs
+- next js (v14)
+- Hygraph cms
+- Json holding backend
+
+
 
 
 
