@@ -11,4 +11,10 @@ This app should allow me to add items that I want to learn/watch/play with the f
 - TV shows/movies
 - code
 
+### Items should include the following;
+- date of release (if app)
+- completion percentage
+- 
+
+
 
