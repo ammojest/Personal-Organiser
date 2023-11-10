@@ -11,7 +11,7 @@ This app should allow me to add items that I want to learn/watch/play with the f
 - TV shows/movies I want to watch 
 - code I want to learn
 
-  :bulb: IDEA: calendar with upcoming releases
+  :bulb: IDEA: calendar with upcoming releases that can be subscribed too
 
 ## Items should include the following;
 
